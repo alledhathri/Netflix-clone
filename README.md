@@ -1,4 +1,4 @@
-# Netflix Clone 🎬
+# Netflix Clone 
 
 This is a basic Netflix homepage clone built using **HTML** and **CSS**.  
 It was created as a practice project to improve front-end development skills.
